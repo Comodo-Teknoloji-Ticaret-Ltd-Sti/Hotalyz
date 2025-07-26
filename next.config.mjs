@@ -10,8 +10,6 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  basePath: '/Hotalyz',
-  assetPrefix: '/Hotalyz/',
 }
 
 export default nextConfig
